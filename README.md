@@ -8,4 +8,4 @@ Screenshots:
 
 [Published app on Google Play](https://play.google.com/store/apps/details?id=com.sagar.calculator)
 
-Main files: [/MainActivity.java](app/src/main/java/com/example/calculator/MainActivity.java), [activity_main.xml](/app/src/main/res/layout/activity_main.xml), [activity_main.xml (Landscape)](/app/src/main/res/layout-land/activity_main.xml)
+Main files: [MainActivity.java](/app/src/main/java/com/example/calculator/MainActivity.java), [activity_main.xml](/app/src/main/res/layout/activity_main.xml), [activity_main.xml (Landscape)](/app/src/main/res/layout-land/activity_main.xml)
